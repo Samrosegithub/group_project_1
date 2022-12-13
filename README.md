@@ -37,3 +37,6 @@ Large    59 < x < = 99
 X-large    99 < x
 Gender Inefficiencies: Gender size differences made faceting original data inefficient (29 inefficiencies). 
 Solution: Average the weight of genders per breed to get congruent data.
+
+
+Continue reading by seeing write-up doc
