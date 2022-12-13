@@ -6,8 +6,8 @@ Questions:
 
 Step 2: Collecting the raw data to analyze
 Data source:
-a.    https://api-ninjas.com/api/dogs
-b.    https://tmfilho.github.io/akcdata
+1.    https://api-ninjas.com/api/dogs
+2.    https://tmfilho.github.io/akcdata
 
 Step 3: Processing the data
 Cleaning Data
@@ -39,4 +39,4 @@ Gender Inefficiencies: Gender size differences made faceting original data ineff
 Solution: Average the weight of genders per breed to get congruent data.
 
 
-Continue reading by seeing write-up doc
+For more information, continue reading Write-up.docx
